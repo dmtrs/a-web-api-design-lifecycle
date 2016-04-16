@@ -1,0 +1,19 @@
+{
+  "name": "web-api-fosccomm16",
+  "version": "0.0.1",
+  "description": "Codebase for talk \"A Web API Design Lifecycle\" 2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmtrs/a-web-api-design-lifecycle.git"
+  },
+  "author": "dmtrs <tydeas.dr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmtrs/a-web-api-design-lifecycle/issues"
+  },
+  "homepage": "https://github.com/dmtrs/a-web-api-design-lifecycle#readme"
+}
